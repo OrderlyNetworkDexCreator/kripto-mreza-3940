@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/kriptomreza",
   "VITE_SEO_SITE_NAME": "Kripto Mreža",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.kriptomreza.com",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/kripto-mreza-3940/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@kriptomreza",
